@@ -1,9 +1,6 @@
 <!-- En-tête avec photo et description -->
 <table>
   <tr>
-    <td width="150px" align="center">
-      <img src="https://github.com/tezc4t.png" width="120px" alt="Photo de profil de Kyllian Auguste"/>
-    </td>
     <td>
       <h1 style="font-size: 26px; font-weight: 600; margin-bottom: 5px;">Bonjour, je suis Kyllian AUGUSTE</h1>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0077B5&width=500&lines=D%C3%A9veloppeur+Fullstack;En+recherche+d'alternance..." alt="Animation de texte" />
