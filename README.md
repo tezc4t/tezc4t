@@ -46,6 +46,7 @@
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
 #### Outils & Infrastructure
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Gitea](https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/JetBrains_Suite-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
