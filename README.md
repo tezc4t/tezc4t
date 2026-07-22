@@ -16,6 +16,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyllian-auguste-3a2466295/)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@Kyllian_Auguste)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tezcat.auguste@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Mon_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.nhkyllian.fr)
 
