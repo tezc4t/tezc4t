@@ -81,7 +81,7 @@
       <h3>AlterKyks (Projet personnel)</h3>
       <p><em>Projet personnel.</em></p>
       <p>AlterKyks est un projet maintenu en self-hosting ayant pour but de faciliter la recherche d'emploi/alternance via des tableaux Kanban en ligne et un système de relances automatiques par e-mail.</p>
-      <p><strong>Technologies :</strong> <code>HTML</code> <code>CSS</code> <code>JS</code> <code>SQL</code> <code>PHP</code> <code>NGINX</code> <code>Docker</code> <code>OVH</code> <code>Cloudflare</code> <code>PHPMailer</code> <code>Gitea</code>
+      <p><strong>Technologies :</strong> <code>HTML</code> <code>CSS</code> <code>JS</code> <code>SQL</code> <code>PHP</code> <code>NGINX</code> <code>Docker</code> <code>OVH</code> <code>Cloudflare</code> <code>PHPMailer</code> <code>Gitea</code></p>
       <a href="https://alterkyks.nhkyllian.fr">Voir le site internet</a>
       <p><em>(Projet privé à visée commerciale, dépôt non accessible publiques).</em></p>
     </td>
