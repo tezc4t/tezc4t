@@ -73,7 +73,7 @@
       <h3>OpenPlanetsMaps (Projet Universitaire)</h3>
       <p><em>Projet réalisé dans le cadre de mon cursus à l'Université.</em></p>
       <p>Projet maintenu en self-hosting ayant pour but de rassembler toutes les photos de la NASA par planète, rendant accessible facilement la documentation spatiale, décliné en site web et en exécutable pour iOS et Android.</p>
-      <p><strong>Technologies :</strong> <code>HTML</code> <code>CSS</code> <code>JS</code> <code>SQL</code> <code>PHP</code> <code>NGINX</code> <code>Docker</code> <code>OVH</code> <code>Cloudflare</code> <code>Electron</code></p>
+      <p><strong>Technologies :</strong> <code>HTML</code> <code>CSS</code> <code>JS</code> <code>SQL</code> <code>PHP</code> <code>NGINX</code> <code>Docker</code> <code>OVH</code> <code>Cloudflare</code> <code>Electron</code> <code>Github</code></p>
       <a href="https://github.com/tezc4t/OpenPlanetsMaps.git">Voir le dépôt GitHub</a><br>
       <a href="https://opm.nhkyllian.fr">Voir le site internet</a>
     </td>
@@ -81,7 +81,7 @@
       <h3>AlterKyks (Projet personnel)</h3>
       <p><em>Projet personnel.</em></p>
       <p>AlterKyks est un projet maintenu en self-hosting ayant pour but de faciliter la recherche d'emploi/alternance via des tableaux Kanban en ligne et un système de relances automatiques par e-mail.</p>
-      <p><strong>Technologies :</strong> <code>HTML</code> <code>CSS</code> <code>JS</code> <code>SQL</code> <code>PHP</code> <code>NGINX</code> <code>Docker</code> <code>OVH</code> <code>Cloudflare</code> <code>PHPMailer</code></p>
+      <p><strong>Technologies :</strong> <code>HTML</code> <code>CSS</code> <code>JS</code> <code>SQL</code> <code>PHP</code> <code>NGINX</code> <code>Docker</code> <code>OVH</code> <code>Cloudflare</code> <code>PHPMailer</code> <code>Gitea</code>
       <a href="https://alterkyks.nhkyllian.fr">Voir le site internet</a>
       <p><em>(Projet privé à visée commerciale, dépôt non accessible publiques).</em></p>
     </td>
