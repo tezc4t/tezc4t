@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>
-      <h1 style="font-size: 26px; font-weight: 600; margin-bottom: 5px;">Bonjour, je suis Kyllian AUGUSTE</h1>
+      <h1 style="font-size: 26px; font-weight: 600; margin-bottom: 5px;">Bonjour, je suis Kyllian NOUH</h1>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0077B5&width=500&lines=D%C3%A9veloppeur+Fullstack;En+recherche+d'alternance..." alt="Animation de texte" />
       <p>Passionné par le développement web et logiciel, je conçois des applications modernes et performantes. Actuellement étudiant, j'allie rigueur académique et projets pratiques pour mettre mes compétences au service de projets ambitieux.</p>
     </td>
