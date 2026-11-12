@@ -3,7 +3,7 @@
   <tr>
     <td>
       <h1 style="font-size: 26px; font-weight: 600; margin-bottom: 5px;">Bonjour, je suis Kyllian NOUH</h1>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0077B5&width=500&lines=D%C3%A9veloppeur+Fullstack" alt="Animation de texte" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0077B5&width=700&lines=Alternant+d%C3%A9veloppeur+Fullstack+chez+Grimp" alt="Animation de texte" />
       <p>Passionné par le développement web et logiciel, je conçois des applications modernes et performantes. Actuellement étudiant, j'allie rigueur académique et projets pratiques pour mettre mes compétences au service de projets ambitieux.</p>
     </td>
   </tr>
@@ -15,6 +15,7 @@
 <!-- Section Me Contacter -->
 <div align="center">
 
+[![GitHub Pro](https://img.shields.io/badge/pro_grimp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kyllian-grimp)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyllian-auguste-3a2466295/)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@Kyllian_Auguste)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tezcat.auguste@gmail.com)
@@ -42,10 +43,13 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 #### Moteurs & Frameworks
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
 #### Outils & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Gitea](https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white)
@@ -92,5 +96,5 @@
 ---
 
 <div align="center">
-  <p>N'hésitez pas à me contacter pour échanger sur une opportunité d'alternance.</p>
+  <p>N'hésitez pas à me contacter pour échanger autour de projets tech ou de développement.</p>
 </div>
