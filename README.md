@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:6364FF&height=200&section=header&text=Kyllian%20Nouh&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=D%C3%A9veloppeur%20Fullstack%20%E2%80%A2%20Alternant%20chez%20Grimp&descSize=20&descAlignY=58" alt="Kyllian Nouh - Développeur Fullstack chez Grimp" />
+
+</div>
+
 <!-- En-tête avec photo et description -->
 <table>
   <tr>
@@ -15,7 +21,7 @@
 <!-- Section Me Contacter -->
 <div align="center">
 
-[![GitHub Pro](https://img.shields.io/badge/pro_grimp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kyllian-grimp)
+[![GitHub Pro](https://img.shields.io/badge/GitHub_Pro-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kyllian-grimp)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyllian-auguste-3a2466295/)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@Kyllian_Auguste)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tezcat.auguste@gmail.com)
@@ -88,7 +94,7 @@
       <p>AlterKyks est un projet maintenu en self-hosting ayant pour but de faciliter la recherche d'emploi/alternance via des tableaux Kanban en ligne et un système de relances automatiques par e-mail.</p>
       <p><strong>Technologies :</strong> <code>HTML</code> <code>CSS</code> <code>JS</code> <code>SQL</code> <code>PHP</code> <code>NGINX</code> <code>Docker</code> <code>OVH</code> <code>Cloudflare</code> <code>PHPMailer</code> <code>Gitea</code></p>
       <a href="https://alterkyks.nhkyllian.fr">Voir le site internet</a>
-      <p><em>(Projet privé à visée commerciale, dépôt non accessible publiques).</em></p>
+      <p><em>(Projet privé à visée commerciale future, dépôt non accessible publiques).</em></p>
     </td>
   </tr>
 </table>
@@ -98,3 +104,5 @@
 <div align="center">
   <p>N'hésitez pas à me contacter pour échanger autour de projets tech ou de développement.</p>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6364FF,100:0077B5&height=100&section=footer" width="100%" alt="" />
