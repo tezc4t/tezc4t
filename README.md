@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:6364FF&height=200&section=header&text=Kyllian%20Nouh&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=D%C3%A9veloppeur%20Fullstack%20%E2%80%A2%20Alternant%20chez%20Grimp&descSize=20&descAlignY=58" alt="Kyllian Nouh - Développeur Fullstack chez Grimp" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A3E2B,50:B5593A,100:E8A857&height=200&section=header&text=Kyllian%20Nouh&fontSize=56&fontColor=FFF3DF&animation=fadeIn&fontAlignY=36&desc=D%C3%A9veloppeur%20Fullstack%20%E2%80%A2%20Alternant%20chez%20Grimp&descSize=20&descAlignY=58" alt="Kyllian Nouh - Développeur Fullstack chez Grimp" />
 
 </div>
 
@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0077B5&width=700&lines=Next.js+%E2%80%A2+NestJS+%E2%80%A2+PostgreSQL;AlterKyks+%3A+j%27organise+tes+candidatures;%C3%89tudiant+%C3%A0+l%27ESIEE-IT+%E2%80%A2+En+alternance+chez+Grimp" alt="Animation de texte" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=B5593A&width=700&lines=Next.js+%E2%80%A2+NestJS+%E2%80%A2+PostgreSQL;AlterKyks+%3A+j%27organise+tes+candidatures;%C3%89tudiant+%C3%A0+l%27ESIEE-IT+%E2%80%A2+En+alternance+chez+Grimp" alt="Animation de texte" />
       <p>Passionné par le développement web et logiciel, je conçois des applications modernes et performantes. Actuellement étudiant, j'allie rigueur académique et projets pratiques pour mettre mes compétences au service de projets ambitieux.</p>
     </td>
   </tr>
@@ -104,5 +104,4 @@
   <p>N'hésitez pas à me contacter pour échanger autour de projets tech ou de développement.</p>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6364FF,100:0077B5&height=100&section=footer" width="100%" alt="" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8A857,50:B5593A,100:7A3E2B&height=100&section=footer" width="100%" alt="" />
