@@ -8,8 +8,7 @@
 <table>
   <tr>
     <td>
-      <h1 style="font-size: 26px; font-weight: 600; margin-bottom: 5px;">Bonjour, je suis Kyllian NOUH</h1>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0077B5&width=700&lines=Alternant+d%C3%A9veloppeur+Fullstack+chez+Grimp" alt="Animation de texte" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0077B5&width=700&lines=Next.js+%E2%80%A2+NestJS+%E2%80%A2+PostgreSQL;AlterKyks+%3A+j%27organise+tes+candidatures;%C3%89tudiant+%C3%A0+l%27ESIEE-IT+%E2%80%A2+En+alternance+chez+Grimp" alt="Animation de texte" />
       <p>Passionné par le développement web et logiciel, je conçois des applications modernes et performantes. Actuellement étudiant, j'allie rigueur académique et projets pratiques pour mettre mes compétences au service de projets ambitieux.</p>
     </td>
   </tr>
@@ -106,3 +105,4 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6364FF,100:0077B5&height=100&section=footer" width="100%" alt="" />
+
